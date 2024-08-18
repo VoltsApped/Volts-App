@@ -41,7 +41,7 @@ const Missions = ({
 					id: "grouptg",
 					title: "Join our #VoltS TG channel",
 					reward: 50000,
-					imageUrl: "https://i.postimg.cc/Y2L006c9/image.png",
+					imageUrl: "https://imgur.la/images/2024/08/18/image3e1c3ff0d1d3a0e2.png",
 					href: "https://t.me/VoltsApp",
 					channelId: -1002175966744,
 					type: "telegram",
