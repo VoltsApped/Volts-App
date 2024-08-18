@@ -71,7 +71,7 @@ const JoinButton = ({
 
 	return (
 		<Button onClick={onJoin} disabled={loading} className="bg-white/20">
-			Join clan
+			Find a clan 👉
 		</Button>
 	);
 };
