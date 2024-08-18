@@ -9,7 +9,7 @@ className?: string
 const CoinIcon: React.FC<IconProps> = ({className}) => {
  return (
   <Image
-   src="/whattapcoinmin.png"
+   src="/BigCoin.png"
    alt="alt"
    width={1000}
    height={1000}
