@@ -43,7 +43,7 @@ const Missions = ({
 					reward: 50000,
 					imageUrl: "https://i.postimg.cc/Y2L006c9/image.png",
 					href: "https://t.me/VoltsApp",
-					channelId: "@VoltsApp",
+					channelId: -1002175966744,
 					type: "telegram",
 				},
 				
