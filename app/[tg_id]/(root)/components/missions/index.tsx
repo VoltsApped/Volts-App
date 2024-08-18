@@ -26,7 +26,7 @@ const Missions = ({
 			missions: [
 				{
 					id: "invitepromo",
-					title: "Invite bonus",
+					title: "🤝 Invite Friends",
 					reward: `up to ${premium_ref_reward} for friend`,
 					imageUrl: "/handshake.png",
 					href: `/${user.tg_id}/frens`,
@@ -39,9 +39,9 @@ const Missions = ({
 			missions: [
 				{
 					id: "grouptg",
-					title: "Join our #VoltS TG channel",
+					title: "👀 #VoltS Community",
 					reward: 50000,
-					imageUrl: "/camping.png",
+					imageUrl: "/battery.png",
 					href: "https://t.me/VoltsApp",
 					channelId: -1002175966744,
 					type: "telegram",
@@ -54,7 +54,7 @@ const Missions = ({
 			missions: [
 				{
 					id: "invite5",
-					title: "Invite 5 friends",
+					title: "Invite 5 Friends",
 					reward: 50000,
 					imageUrl: "/camping.png",
 					friends: 5,
@@ -62,7 +62,7 @@ const Missions = ({
 				},
 				{
 					id: "invite10",
-					title: "Invite 10 friends",
+					title: "Invite 10 Friends",
 					reward: 300000,
 					imageUrl: "/house.png",
 					friends: 10,
@@ -70,7 +70,7 @@ const Missions = ({
 				},
 				{
 					id: "invite100",
-					title: "Invite 100 friends",
+					title: "Invite 100 Friends",
 					reward: 1000000,
 					imageUrl: "/houses.png",
 					friends: 100,
