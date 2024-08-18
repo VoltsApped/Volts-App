@@ -27,7 +27,7 @@ const Missions = ({
 				{
 					id: "invitepromo",
 					title: "🤝 Invite Friends",
-					reward: `up to ${premium_ref_reward} for friend`,
+					reward: `Up to ${premium_ref_reward} for Friend`,
 					imageUrl: "/handshake.png",
 					href: `/${user.tg_id}/frens`,
 					type: "display",
